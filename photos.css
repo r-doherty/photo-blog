@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap");
+
+img {
+	width: 30%;
+	height: 400px;
+	margin: calc(10% / 6);
+	object-fit: cover;
+}
+
+nav {
+	text-transform: uppercase;
+	border-bottom: 2px solid #000000;
+	width: 50%;
+	font-family: "Odibee Sans", sans-serif;
+	margin: 0 0 calc(10% / 6) calc(10% / 6);
+	font-size: 2em;
+	padding: 1em 0;
+}
